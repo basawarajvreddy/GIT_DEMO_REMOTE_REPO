@@ -5,3 +5,5 @@ Changes in local file
 Changes in the remote github
 MOdification in the local drive
 Changes to check how fetch works.
+
+Editing in the feature-1 branch
